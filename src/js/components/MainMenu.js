@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-export class MainMenu extends React.Component{
+export default class MainMenu extends React.Component{
 
 render(){
   return (

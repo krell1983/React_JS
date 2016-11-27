@@ -1,8 +1,25 @@
 body{
 padding: 0px;
 margin: 0px;
+font-size: 12px;
+font-family: arial;
 }
 
 [data-aplication="react-app"]{
   border:solid 2px #aaaaaa;
+}
+
+a {
+    padding: 5px;
+    display: inline-block;
+    border: solid 1px #999;
+    margin: 5px;
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+h1{
+  padding: 10px;
+  margin: 0px;
 }

@@ -6,24 +6,12 @@ import Header from "./components/Header.js";
 import MainMenu from "./components/MainMenu.js";
 import Footer from "./components/Footer.js";
 
-console.log('123');
 
-
-class Layout extends React.Component {
-  render(){
-    return(
-      <h1> DUPA </h1>
-    )
-  }
-}
-
-
-/*
 const app = document.querySelector('[data-aplication="react-app"]');
-ReacrDOM.render(
+ReactDOM.render(
   <div className="Page">
     <Header/>
     <MainMenu/>
     <Footer/>
   </div>
-,app);*/
+,app);
